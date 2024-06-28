@@ -1,0 +1,21 @@
+{
+    "name": "svg-image-generator",
+    "version": "1.0.0",
+    "description": "Command Line Tool to make shapes/logo",
+    "main": "index.js",
+    "directories": {
+      "info": "info"
+    },
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "UNLICENSED",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+      "jest": "^29.5.0"
+    }
+  }
