@@ -1,4 +1,4 @@
-const Shape = require('./shape')
+const Shape = require('./create')
 
 
 class Triangle extends Shape {

@@ -1,4 +1,4 @@
-const Shape = require('./shape')
+const Shape = require('./create')
 
 class Square extends Shape {
     constructor(shapeColor, text, textColor) {

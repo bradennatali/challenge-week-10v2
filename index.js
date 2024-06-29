@@ -1,6 +1,6 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
-const questions = require('./info/prmopt.js');
+const questions = require('./info/prompt.js');
 const generate = require('./info/generate.js');
 const newFile = "./examples/logo.svg";
 
